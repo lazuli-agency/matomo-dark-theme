@@ -1,5 +1,9 @@
 # Changelog
 
+## v5.0.7
+
+- Update: Color scheme
+
 ## v5.0.6
 - Update documentation URL
 
