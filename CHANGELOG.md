@@ -1,5 +1,9 @@
 # Changelog
 
+## v5.0.8
+
+- update: marketplace cover
+
 ## v5.0.7
 
 - Update: Color scheme
